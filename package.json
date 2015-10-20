@@ -1,0 +1,23 @@
+{
+  "name": "commonjs-touchslider",
+  "version": "1.0.0",
+  "description": "让touchslider支持commonJS规范",
+  "main": "TouchSlide.1.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinygang/commonjs-touchslider.git"
+  },
+  "keywords": [
+    "touchslider",
+    "commonjs"
+  ],
+  "author": "shinygang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinygang/commonjs-touchslider/issues"
+  },
+  "homepage": "https://github.com/shinygang/commonjs-touchslider#readme"
+}
